@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFinderTask", "WordFinderTask\WordFinderTask.csproj", "{1EF58FDF-6120-42F7-82FD-DD041DFD6B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF58FDF-6120-42F7-82FD-DD041DFD6B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF58FDF-6120-42F7-82FD-DD041DFD6B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF58FDF-6120-42F7-82FD-DD041DFD6B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF58FDF-6120-42F7-82FD-DD041DFD6B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1574C112-AC43-4E27-BF1C-3C8215FFF8AF}
+	EndGlobalSection
+EndGlobal

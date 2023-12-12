@@ -1,0 +1,8 @@
+C:\Repositories\WordFinderTask\WordFinderTask\bin\Debug\WordFinderTask.exe.config
+C:\Repositories\WordFinderTask\WordFinderTask\bin\Debug\WordFinderTask.exe
+C:\Repositories\WordFinderTask\WordFinderTask\bin\Debug\WordFinderTask.pdb
+C:\Repositories\WordFinderTask\WordFinderTask\obj\Debug\WordFinderTask.csproj.AssemblyReference.cache
+C:\Repositories\WordFinderTask\WordFinderTask\obj\Debug\WordFinderTask.csproj.SuggestedBindingRedirects.cache
+C:\Repositories\WordFinderTask\WordFinderTask\obj\Debug\WordFinderTask.csproj.CoreCompileInputs.cache
+C:\Repositories\WordFinderTask\WordFinderTask\obj\Debug\WordFinderTask.exe
+C:\Repositories\WordFinderTask\WordFinderTask\obj\Debug\WordFinderTask.pdb
